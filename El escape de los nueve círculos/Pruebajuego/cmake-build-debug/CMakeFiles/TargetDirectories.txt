@@ -1,3 +1,0 @@
-C:/Users/Sebastian/CLionProjects/Pruebajuego/cmake-build-debug/CMakeFiles/Pruebajuego.dir
-C:/Users/Sebastian/CLionProjects/Pruebajuego/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Sebastian/CLionProjects/Pruebajuego/cmake-build-debug/CMakeFiles/rebuild_cache.dir
